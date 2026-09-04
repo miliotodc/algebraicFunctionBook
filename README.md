@@ -67,7 +67,7 @@ The loader then does the following steps:
 
 Click the ***PDF*** folder.  Then click the ***algebraicFunctionBook.pdf*** file.  Next, click the download icon and download the PDF file to a desired destination. Click on any hyperlink to navigate through the book.  Use your PDF viewer’s Back command to return to your previous location after clicking a link. For example the Alt+left arrow key is used by Firefox which is the recommended book viewer.
 
-This ensures readers receive the complete and organized installation.
+These steps ensure readers receive the complete and organized installation.  Any questions, I can be reached at youierns@gmail.com.
 
 ---
 
